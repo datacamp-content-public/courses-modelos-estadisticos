@@ -1,7 +1,20 @@
 ---
-title: 'Chapter Title Here'
-description: 'Chapter description goes here.'
+title: Introducción
+description: 'Conceptos básicos sobre modelización estadística y presentación de algunos ejemplos de modelos lineales.'
 free_preview: true
+---
+
+##  
+
+```yaml
+type: VideoExercise
+key: 86112b0c24
+xp: 50
+```
+
+`@projector_key`
+eda455040b30125f4beac71ed9193c29
+
 ---
 
 ## Example coding exercise
