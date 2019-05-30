@@ -1,5 +1,8 @@
 title: MODELOS ESTADÍSTICOS
-description: Course description goes here.
+description: >-
+  Una visión práctica de los modelos estadísticos con respuesta normal o más
+  conocidos como modelos lineales. Comenzaremos por los modelos de regresión,
+  seguiremos con los modelos ANOVA y ANCOVA, y finalizaremos  con los modelos de
+  suavizado y mixtos.
 programming_language: r
-from: "r-base-prod:v1.0.2"
-#from: "tidyverse-base-prod:v1.0.2"
+from: 'r-base-prod:v1.0.2'
